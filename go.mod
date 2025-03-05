@@ -2,6 +2,8 @@ module github.com/go-echarts/go-echarts/v2
 
 go 1.18
 
+replace github.com/go-echarts/go-echarts/v2 => github.com/SmallYangCong/go-echarts/v2@v2.0.0-20250305014359-a73c3ffa0832
+
 require github.com/stretchr/testify v1.6.0
 
 require (
