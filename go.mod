@@ -1,9 +1,7 @@
 module github.com/SmallYangCong/go-echarts
 
 go 1.18
-replace (
-	 github.com/go-echarts/go-echarts/v2 => github.com/SmallYangCong/go-echarts/v2
-)
+
 require github.com/stretchr/testify v1.6.0
 
 require (
