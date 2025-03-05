@@ -2,7 +2,7 @@ package types
 
 // Bool a wrapper type of *bool, use opts.Bool to simply convert it.
 type (
-	Bool   *bool
+	Bool   bool
 	Int    *int
 	Float  *float32
 	String string
