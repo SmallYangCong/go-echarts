@@ -1,4 +1,4 @@
-module github.com/SmallYangCong/go-echarts/v2
+module github.com/SmallYangCong/go-echarts
 
 go 1.18
 replace (
